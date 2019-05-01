@@ -1,4 +1,4 @@
-# Ludum Dare
+# ASCII maps
 
 Just a small experiment for make a struct to build an ASCII map
 in a terminal
